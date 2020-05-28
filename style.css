@@ -1,0 +1,42 @@
+body {
+  background-color: green;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 100px;
+}
+
+option#border {
+  border-radius: 100px;
+}
+select {
+  border-radius: 20px;
+  color: black;
+  margin-left: 20%;
+  height: 50px;
+  width: 300px;
+  text-align: justify;
+}
+button {
+  margin-left: 20%;
+  height: 70px;
+  width: 300px;
+  border: 2px solid black;
+  border-radius: 20px;
+}
+p.serif {
+  font-family: "Times New Roman", Times, serif;
+}
+div.jumbotron {
+  height: 300px;
+  width: 50%;
+  background-color: powderblue;
+}
+h1 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#head {
+  display: inline-flex;
+}

@@ -1,0 +1,48 @@
+{
+  "class": "all the information stored",
+  "date": "May 18 2020",
+  "Brands": [
+    {
+      "brand": "Acqua di Parma",
+      "image": "https://fimgs.net/images/secundar/o.53053.jpg",
+      "market": ["Europe", "France", "Italy", "Travel Retail Europe", "UK"]
+    },
+    {
+      "brand": "Chaling",
+      "image": "https://r.lvmh-static.com/uploads/2019/06/cha-ling.jpg",
+      "market": ["France"]
+    },
+    {
+      "brand": "Dior",
+      "image": "https://wwws.dior.com/couture/extension/smilediorrefonte/design/diorrefonte/images/logos/logo-uppercase.png",
+      "market": [
+        "BeNeLux",
+        "Denmark",
+        "EPCD",
+        "France",
+        "Other Nordics",
+        "Germany",
+        "Italy",
+        "Spain",
+        "Switzerland",
+        "Russia",
+        "UK"
+      ]
+    },
+    {
+      "brand": "Givenchy",
+      "image": "https://thedrop101.files.wordpress.com/2014/10/givenchy-logo-communication.jpg",
+      "market": ["UK"]
+    },
+    {
+      "brand": "Guerlain",
+      "image": "https://fimgs.net/images/secundar/o.46477.jpg",
+      "market": ["Europe"]
+    },
+    {
+      "brand": "Loewe",
+      "image": "https://r.lvmh-static.com/uploads/2014/10/loewe-diapo0116-2-1992x1296.jpg",
+      "market": ["Spain"]
+    }
+  ]
+}
